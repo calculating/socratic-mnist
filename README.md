@@ -1,2 +1,1 @@
-# socratic-mnist
-A transformer which selects conv filter stacks to sample for digit classification
+This is a bit of a riff on [hypernetworks](https://blog.otoro.net/2016/09/28/hyper-networks/) and [Multiple Object Recognition with Visual Attention](https://arxiv.org/abs/1412.7755). Just testing the information efficiency of a model which queries for sparse samples of processed information rather than taking everything in a large processing stack.
